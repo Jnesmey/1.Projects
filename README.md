@@ -1,2 +1,2 @@
-# 1.Projects
+# Projects
 Учебные и pet-проекты 
